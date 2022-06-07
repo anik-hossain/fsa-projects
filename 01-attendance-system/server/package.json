@@ -1,0 +1,30 @@
+{
+    "name": "attendance-system-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start:dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anik-hossain/fsa-projects.git"
+    },
+    "keywords": [
+        "NodeJs",
+        "JavaScript"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/anik-hossain/fsa-projects/issues"
+    },
+    "homepage": "https://github.com/anik-hossain/fsa-projects#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "mongoose": "^6.3.5"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
